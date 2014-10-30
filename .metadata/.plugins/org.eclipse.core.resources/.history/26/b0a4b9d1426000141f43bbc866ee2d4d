@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Android Course</string>
-    <string name="hello_world">Hej FÖFFAFFAN!</string>
+    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
 </resources>
